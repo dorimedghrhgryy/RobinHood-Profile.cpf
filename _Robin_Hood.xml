@@ -211,15 +211,15 @@
 
 <Guard A, Vert>
 	<Unit_Block_Head>R3VhcmQgQTA1BwBHYXJkZSBBEQBIYWxsZWJhcmRpZXIgVmVydA==</Unit_Block_Head> 
-	<LifePoint>100</LifePoint>
-	<Intelligence>20</Intelligence>
+	<LifePoint>250</LifePoint>
+	<Intelligence>60</Intelligence>
 	<Courage>50</Courage>
 	<Initiative>0</Initiative>
 	<Pride>0</Pride>
 	<Formation>1</Formation>
 	<Shooting>0</Shooting>
-	<Fighting>40</Fighting>
-	<Endurance>30</Endurance>
+	<Fighting>60</Fighting>
+	<Endurance>50</Endurance>
 	<Rank>0</Rank>
 	<Weapon_String>SDHL</Weapon_String>
 	<Bee_Time>3</Bee_Time>
@@ -595,13 +595,13 @@
 
 <Archer0, Vert>
 	<Unit_Block_Head>QXJjaGVyMDUGAEFyY2hlcgsAQXJjaGVyIFZlcnQ=</Unit_Block_Head> 
-	<LifePoint>50</LifePoint>
-	<Intelligence>50</Intelligence>
-	<Courage>15</Courage>
+	<LifePoint>150</LifePoint>
+	<Intelligence>60</Intelligence>
+	<Courage>30</Courage>
 	<Initiative>0</Initiative>
 	<Pride>0</Pride>
 	<Formation>0</Formation>
-	<Shooting>50</Shooting>
+	<Shooting>90</Shooting>
 	<Fighting>30</Fighting>
 	<Endurance>10</Endurance>
 	<Rank>0</Rank>
@@ -787,15 +787,15 @@
 
 <Officer, Vert>
 	<Unit_Block_Head>T2ZmaWNlcjA1CABPZmZpY2llcg0AT2ZmaWNpZXIgVmVydA==</Unit_Block_Head> 
-	<LifePoint>150</LifePoint>
+	<LifePoint>400</LifePoint>
 	<Intelligence>80</Intelligence>
-	<Courage>60</Courage>
+	<Courage>70</Courage>
 	<Initiative>0</Initiative>
-	<Pride>0</Pride>
+	<Pride>75</Pride>
 	<Formation>0</Formation>
 	<Shooting>0</Shooting>
-	<Fighting>80</Fighting>
-	<Endurance>60</Endurance>
+	<Fighting>100</Fighting>
+	<Endurance>80</Endurance>
 	<Rank>1</Rank>
 	<Weapon_String>SDOF</Weapon_String>
 	<Bee_Time>7</Bee_Time>
@@ -979,15 +979,15 @@
 
 <Soldier B, Vert>
 	<Unit_Block_Head>U29sZGllciBCMDUIAFNvbGRhdCBCDgBDaGV2YWxpZXIgVmVydA==</Unit_Block_Head> 
-	<LifePoint>125</LifePoint>
-	<Intelligence>90</Intelligence>
-	<Courage>90</Courage>
+	<LifePoint>320</LifePoint>
+	<Intelligence>110</Intelligence>
+	<Courage>150</Courage>
 	<Initiative>0</Initiative>
 	<Pride>0</Pride>
 	<Formation>0</Formation>
 	<Shooting>0</Shooting>
-	<Fighting>80</Fighting>
-	<Endurance>90</Endurance>
+	<Fighting>100</Fighting>
+	<Endurance>100</Endurance>
 	<Rank>2</Rank>
 	<Weapon_String>SDKN</Weapon_String>
 	<Bee_Time>10</Bee_Time>
@@ -1171,14 +1171,14 @@
 
 <Guard B, Vert>
 	<Unit_Block_Head>R3VhcmQgQjA1BwBHYXJkZSBCDABMYW5jaWVyIFZlcnQ=</Unit_Block_Head> 
-	<LifePoint>65</LifePoint>
-	<Intelligence>10</Intelligence>
-	<Courage>20</Courage>
+	<LifePoint>165</LifePoint>
+	<Intelligence>90</Intelligence>
+	<Courage>50</Courage>
 	<Initiative>0</Initiative>
 	<Pride>0</Pride>
 	<Formation>1</Formation>
 	<Shooting>0</Shooting>
-	<Fighting>30</Fighting>
+	<Fighting>90</Fighting>
 	<Endurance>30</Endurance>
 	<Rank>0</Rank>
 	<Weapon_String>SDLN</Weapon_String>
@@ -1363,13 +1363,13 @@
 
 <Crossbowman, Vert>
 	<Unit_Block_Head>Q3Jvc3Nib3dtYW4wNQsAQXJiYWxldHJpZXIQAEFyYmFsZXRyaWVyIFZlcnQ=</Unit_Block_Head> 
-	<LifePoint>100</LifePoint>
-	<Intelligence>30</Intelligence>
+	<LifePoint>160</LifePoint>
+	<Intelligence>60</Intelligence>
 	<Courage>40</Courage>
 	<Initiative>0</Initiative>
 	<Pride>0</Pride>
 	<Formation>0</Formation>
-	<Shooting>50</Shooting>
+	<Shooting>90</Shooting>
 	<Fighting>30</Fighting>
 	<Endurance>10</Endurance>
 	<Rank>0</Rank>
